@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://cloud189-xizang-person.oos-xzls.ctyunapi.cn/PERSONCLOUD/587d0a67-0118-4b0c-99e0-1aa44cec0eb0.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-limitrate=10240&x-amz-UID=733920062&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22RedmiNote7_MIUI12_20.11.19_10.0_BlueHill_e059e19031.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=hfTSmGGPOtxtVpxBwQyd0dQMIE8%3D&x-amz-SHID=170410500&Expires=1605946114&x-amz-FSIZE=1942001972&x-amz-UFID=91323312138018215",
+  "rom_name": "RedmiNote7_MIUI12_20.11.19_10.0_BlueHill_e059e19031.zip",
+  "pack_sgsi": "HMNote7_20.11.19_Q-bluehill_SGSI_redblue.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
